@@ -36,9 +36,7 @@ Currently i am
 Like 
 **Kotlin, Jetpack compoose, roome, retrofit, dagger hilt, etc**
 
-#### Checkout me on fiverr
+#### Hire Me
 [Fiverr](https://www.fiverr.com/waheed_js)
 
-[For Mobile App Development](https://www.upwork.com/freelancers/~0116aea276d33b7ca3)
-
-[For web Development]
+[Upwork ](https://www.upwork.com/freelancers/~0116aea276d33b7ca3)
