@@ -8,10 +8,7 @@ I am working with
 **React native.**
 #### Mern Stack✴️
  I have strong hands on 
-**Nodejs,Reactjs,Nextjs,Express ,Mongodb,Aws, Tailwind Css, Payment gateway, Rest-full Api development**
-My core expertise are 
-**Restful apies development**.
-**Modren, scalable** 
+**Nodejs,Reactjs,Nextjs,Express ,Mongodb,Aws, Tailwind Css, Payment gateway such as Stripe, Rest-full Api development ,Modren, scalable** 
 and 
 **professional Ui designing**
 using 
