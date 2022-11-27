@@ -38,3 +38,7 @@ Like
 
 #### Checkout me on fiverr
 [Fiverr](https://www.fiverr.com/waheed_js)
+
+[For Mobile App Development](https://www.upwork.com/freelancers/~0116aea276d33b7ca3)
+
+[For web Development]
